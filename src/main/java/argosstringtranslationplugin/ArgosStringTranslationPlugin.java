@@ -63,7 +63,7 @@ public class ArgosStringTranslationPlugin extends Plugin implements StringTransl
 
 	@Override
 	public String getTranslationServiceName() {
-		return "Argos String Translation";
+		return "argos-translate";
 	}
 
 	@Override
